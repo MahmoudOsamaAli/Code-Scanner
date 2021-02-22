@@ -14,9 +14,13 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="false"
         android:theme="@style/Theme.CodeScanner">
-        <activity android:name=".view.CreateFileActivity"/>
-        <activity android:name=".view.MainActivity" />
-        <activity android:name=".view.LoginActivity">
+        <activity android:name=".view.CreateFileActivity"
+            android:theme="@style/Theme.CodeScanner"/>
+        <activity android:name=".view.MainActivity"
+            android:theme="@style/Theme.CodeScanner"/>
+        <activity android:name=".view.LoginActivity"
+            android:theme="@style/Theme.CodeScanner"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
