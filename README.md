@@ -1,6 +1,6 @@
 # Code-Scanner
 
-it's a application Specifically deployed for Honeywell mobile brand that uses Barcode Scanner module to get any barcode or QR Code. it has a feature to export scanned data to an excel sheet and can send it via whats app.
+it's an application Specifically deployed for Honeywell mobile brand that uses the Barcode Scanner module to get any barcode or QR Code. it has a feature to export scanned data to an excel sheet and can send it via whats app.
 
 # Tools :
 
